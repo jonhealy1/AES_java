@@ -1,0 +1,9 @@
+Group Members: Just me
+
+To Compile: javac AES.java
+
+To Run: For Encryption: java AES e keyFile inputFile
+
+To Run: For Decryption: java AES d keyFile inputFile.enc
+
+
